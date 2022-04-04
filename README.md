@@ -2,7 +2,7 @@
   <br>
   <samp>
     Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/cheeri0">Bekzod</a></b>.
-    <br>I am a final year student at the Turin Polytechnic University in Tashkent, Uzbekistan with a degree in Programming<br>
+    <br>I am a final year student at the Turin Polytechnic University in Tashkent, Uzbekistan with a degree in Programming.<br>
 
 </samp>
 
