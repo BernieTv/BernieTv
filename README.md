@@ -1,8 +1,8 @@
 <p align="center">
   <br>
   <samp>
-    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://tanx.dev">Tan</a></b>.
-    <br>I'm a Computer Engineering Undergraduate Student from Mexico.<br>
+    Hello there! I'm <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://t.me/cheeri0">Bekzod</a></b>.
+    <br>I am a final year student at the Turin Polytechnic University in Tashkent, Uzbekistan with a degree in Programming<br>
 
 </samp>
 
@@ -19,6 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project: <a href="https://github.com/TanZng/dijkstras-shortest-path">Dijkstra's shortest path visualizer.</a>
+Current Project I am working on: <a href="https://www.youtube.com/watch?v=iGBERMGMIvc&list=PLr9yThVkeozlwi8bl6WRiIFt7s4HOhagg&index=1">Build and Deploy a Premium Next JS React Website</a>
 </samp>
 </details>
