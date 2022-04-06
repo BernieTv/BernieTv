@@ -19,6 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project I am working on: <a href="https://www.youtube.com/watch?v=iGBERMGMIvc&list=PLr9yThVkeozlwi8bl6WRiIFt7s4HOhagg&index=1">Build and Deploy a Premium Next JS React Website</a>
+Current Project I am working on: <a href="https://youtu.be/HYv55DhgTuA">Build and Deploy THE BEST Modern Blog App with React | GraphQL, NextJS, Tailwind CSS</a>
 </samp>
 </details>
