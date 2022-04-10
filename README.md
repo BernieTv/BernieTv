@@ -19,6 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project I am working on: <a href="https://youtu.be/HYv55DhgTuA">Build and Deploy THE BEST Modern Blog App with React | GraphQL, NextJS, Tailwind CSS</a>
+Current Project I am working on: <a href="https://youtu.be/VsUzmlZfYNg">Build and Deploy a Full Stack MERN Social Media App with Auth, Pagination, Comments | MERN Course</a>
 </samp>
 </details>
