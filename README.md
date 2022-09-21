@@ -19,6 +19,6 @@
 
 <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/bonefire.gif" width="200"/>
 
-Current Project I am working on: <a href="https://youtu.be/VsUzmlZfYNg">GraphQL</a>
+Current Project I am working on: <a href="https://youtu.be/I6ypD7qv3Z8">GraphQL</a>
 </samp>
 </details>
