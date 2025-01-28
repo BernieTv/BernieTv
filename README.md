@@ -1,5 +1,4 @@
 <div align="center">
-   <br/>
    <samp>
    Hello there! My name is Bekzod.
    <br/>
