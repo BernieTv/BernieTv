@@ -3,7 +3,7 @@
    <samp>
    Hello there! My name is Bekzod.
    <br/>
-   <p >🎓 I graduated from Turin Polytechnic University with a degree in Information Technology and Automation Systems, where I developed my skills in making things smarter, faster, and way cooler! 🚀 I'm a full-stack web developer who loves crafting awesome projects with <strong>TypeScript</strong> and <strong>C#</strong>, and I’ve got a solid grip on <strong>DevOps</strong> to keep everything running like magic. 💻✨ Let’s build something amazing! And remember, programmers are like ninjas—quiet, focused, and always saving the day without anyone noticing! 🥷💻</p>
+   <p >🎓 Graduated from Turin Polytechnic University with a degree in Information Technology and Automation Systems, where I developed my skills in making things smarter, faster, and way cooler! 🚀 I'm a full-stack web developer who loves crafting awesome projects with <strong>TypeScript</strong> and <strong>C#</strong>, and I’ve got a solid grip on <strong>DevOps</strong> to keep everything running like magic. 💻✨ Let’s build something amazing! And remember, programmers are like ninjas—quiet, focused, and always saving the day without anyone noticing! 🥷💻</p>
    </samp>
    
    <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
